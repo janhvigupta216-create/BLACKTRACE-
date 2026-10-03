@@ -1,0 +1,6 @@
+{
+  "name": "BLACKTRACE",
+  "description": "Search the Internet's attack surface. Discover exposed assets, services, technologies, vulnerabilities, and cyber threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
